@@ -219,7 +219,7 @@ Your default web browser will automatically open a new tab with the application 
 <img src="./assets/deep_analysis.png" width="100%" style="border-radius: 29px; margin-top: 10px;">
 <img src="./assets/image_comparison.png" width="100%" style="border-radius: 29px; margin-top: 10px;">
 <img src="./assets/fine_tune_generation.png" width="46%" align = "left" style="border-radius: 29px; margin-top: 10px;"> 
-<img src="./assets/session_management.png" width="50%" align = "right" style="border-radius: 29px; margin-top: 10px;">   
+<img src="./assets/session_management.png" width="48%" align = "right" style="border-radius: 29px; margin-top: 10px;">   
 
 </div>
 
@@ -228,7 +228,6 @@ Your default web browser will automatically open a new tab with the application 
 
 <br>
 
----
 
 <img src="./assets/readme.md_on_vscode.png" width="100%" style="border-radius: 29px; margin-top: 10px;">
 
