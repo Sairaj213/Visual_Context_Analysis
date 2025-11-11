@@ -228,7 +228,6 @@ Your default web browser will automatically open a new tab with the application 
 
 <br>
 
----
 
 <img src="./assets/readme.md_on_vscode.png" width="100%" style="border-radius: 29px; margin-top: 10px;">
 
